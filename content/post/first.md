@@ -1,6 +1,5 @@
 +++
 date = 2014-07-11T08:13:40Z
-draft = true
 title = "Reflect, Refine, Refactor"
 +++
 
