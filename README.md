@@ -1,0 +1,4 @@
+Categorical Ethos
+==================
+
+Personal Website
