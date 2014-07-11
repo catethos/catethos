@@ -1,4 +1,4 @@
-catethos.github.io
+Categorical Ethos
 ==================
 
 Personal Website
