@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on Categorical Ethos </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://catethos.github.io/post/index.xml</link>
+    <link>http://localhost:1313/post/index.xml</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Study Materials for Communicating Sequential Processes(CSP)</title>
-      <link>http://catethos.github.io/post/20140713_csp</link>
+      <link>http://localhost:1313/post/20140713_csp</link>
       <pubDate>Sun, 13 Jul 2014 07:25:26 UTC</pubDate>
       
-      <guid>http://catethos.github.io/post/20140713_csp</guid>
+      <guid>http://localhost:1313/post/20140713_csp</guid>
       <description>
 
 &lt;p&gt;I have just started to learn about concurrency.
@@ -80,11 +80,45 @@ here is a good article.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Of Human Achievement</title>
+      <link>http://localhost:1313/post/20140713_history</link>
+      <pubDate>Sun, 13 Jul 2014 06:22:47 UTC</pubDate>
+      
+      <guid>http://localhost:1313/post/20140713_history</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The art of man is able to construct monuments
+far more permanent than the narrow span of
+his own existence; yet these monuments,
+like himeself, are perishable and frail;
+and, in the boundless annals of time,
+his life and his labours must equally
+be measured as a fleeting moment.&lt;/p&gt;
+
+&lt;p&gt;Edward Gibbon, The Decline and Fall of the Roman Empire, Chap. 71&lt;/p&gt;
+
+&lt;p&gt;Herodotus, from Halicarnassus,
+here displays his enquiries,
+that human achievement may be
+spared the ravage of time.
+And that everything great and
+astounding, and all the glory
+of those exploits which
+served to display Greeks and Barbarians
+alike to such effect, be kept alive -
+and additionally, and most importantly,
+to give the reason they wen to war.&lt;/p&gt;
+
+&lt;p&gt;Herodotus, The Histories, Chap.1(Translated by Tom Holland)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reflect, Refine, Refactor</title>
-      <link>http://catethos.github.io/post/first</link>
+      <link>http://localhost:1313/post/first</link>
       <pubDate>Fri, 11 Jul 2014 08:13:40 UTC</pubDate>
       
-      <guid>http://catethos.github.io/post/first</guid>
+      <guid>http://localhost:1313/post/first</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Reflect, Refine, Refactor&lt;/h2&gt;

@@ -10,9 +10,9 @@
   <title> Categorical Ethos &middot; Categorical Ethos </title>
 
   
-  <link rel="stylesheet" href="http://catethos.github.io/css/poole.css">
-  <link rel="stylesheet" href="http://catethos.github.io/css/syntax.css">
-  <link rel="stylesheet" href="http://catethos.github.io/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -20,13 +20,13 @@
   <link rel="shortcut icon" href="/favicon.ico">
 
   
-  <link href="http://catethos.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Categorical Ethos" />
+  <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="Categorical Ethos" />
 </head>
 
-<body>
+<body class="layout-reverse">
 
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container">
     <div class="sidebar-about">
       <h1>Categorical Ethos</h1>
       <p class="lead">
@@ -49,7 +49,7 @@
       
   <div class="post">
     <h1 class="post-title">
-      <a href="http://catethos.github.io/post/20140713_csp">
+      <a href="http://localhost:1313/post/20140713_csp">
         Study Materials for Communicating Sequential Processes(CSP)
       </a>
     </h1>
@@ -61,7 +61,19 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="http://catethos.github.io/post/first">
+      <a href="http://localhost:1313/post/20140713_history">
+        Of Human Achievement
+      </a>
+    </h1>
+
+    <span class="post-date">Sun, Jul 13, 2014</span>
+
+    The art of man is able to construct monuments far more permanent than the narrow span of his own existence; yet these monuments, like himeself, are perishable and frail; and, in the boundless annals of time, his life and his labours must equally be measured as a fleeting moment. Edward Gibbon, The Decline and Fall of the Roman Empire, Chap. 71 Herodotus, from Halicarnassus, here displays his enquiries, that human achievement may be spared the ravage of time.
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="http://localhost:1313/post/first">
         Reflect, Refine, Refactor
       </a>
     </h1>
@@ -74,5 +86,8 @@
 </div>
 
 
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>

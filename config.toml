@@ -1,5 +1,6 @@
 baseurl = "http://catethos.github.io"
 languageCode = "en-us"
 title = "Categorical Ethos"
+disqusShortname = "catethos"
 [Params]
 description = "A personal site to document what I have done, as an attempt to think and work systematically"
